@@ -1,0 +1,29 @@
+
+# dependencies
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+/yarn.lock
+/package-lock.json
+
+# production
+/lib
+/dist
+/docs-dist
+
+# misc
+.DS_Store
+
+# coverage
+/coverage
+
+# screenshot
+screenshot
+.eslintcache
+.changelog
+.changelog.md
+
+# debuger
+.idea/
+.sonar/
+.vscode/
