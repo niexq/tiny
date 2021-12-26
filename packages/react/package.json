@@ -1,0 +1,30 @@
+{
+  "name": "@ntiny/react",
+  "version": "0.0.0",
+  "description": "tiny版本react",
+  "keywords": [
+    "tiny",
+    "react"
+  ],
+  "author": "niexq <niexq@firstgrid.cn>",
+  "homepage": "https://github.com/niexq/tiny#readme",
+  "license": "MIT",
+  "main": "lib/react.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niexq/tiny.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/niexq/tiny/issues"
+  }
+}
